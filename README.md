@@ -2,9 +2,9 @@ Daily Task Management System
 
 
 
-Student Name: Your Name
+Student Name: Khushi Makhecha
 
-Student Email: your\_email@gmail.com
+Student Email: 23f2001827@ds.study.iitm.ac.in
 
 
 
